@@ -21,6 +21,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ClaudeBridge.Core\ClaudeBridge.Core.csproj" />
     <ProjectReference Include="..\ClaudeBridge.GeometryEngine\ClaudeBridge.GeometryEngine.csproj" />
+    <ProjectReference Include="..\ClaudeBridge.SimulatedBridge\ClaudeBridge.SimulatedBridge.csproj" />
   </ItemGroup>
 
 </Project>
