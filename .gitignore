@@ -1,0 +1,13 @@
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Local configuration (mai committare chiavi API), vedi documento 05 §3
+appsettings.local.json
+*.local.json
+.env
